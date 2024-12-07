@@ -2,7 +2,7 @@
 Mon nom est Marc-Olivier Bergeron, j'ai 23 ans et je suis un développer logiciel
 Québec, Canada 🇨🇦
 
--Diplomé en technique de l'informatique au Cégép de Sainte-Foy
+- Diplomé en technique de l'informatique au Cégép de Sainte-Foy
 
 - Étudiant au baccalauréat en informatique à l'Université Laval
 
@@ -17,5 +17,5 @@ Québec, Canada 🇨🇦
 
 ## Contact
 - SiteWeb portfolio
-- [Marc-Olivier Bergeron](www.linkedin.com/in/marc-olivier-bergeron-6a08a725b) Linkedin
+- [Marc-Olivier Bergeron](https://www.linkedin.com/in/marc-olivier-bergeron-6a08a725b) Linkedin
 - [mo_b@icloud.com](mailto:mo_b@icloud.com)
