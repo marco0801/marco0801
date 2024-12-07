@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey! 👋
+Mon nom est Marc-Olivier Bergeron, j'ai 23 ans et je suis un développer logiciel
+Québec, Canada 🇨🇦
 
-<!--
-**marco0801/marco0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- E@tudiant au baccalauréat en informatique à l'Université Laval
 
-Here are some ideas to get you started:
+- Je travail chez Beneva en temps que administrateur de plateformes d'intelligences d'affaires
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+- 👨‍💻 C++, C#, Java, Python, PowerShell, Bash
+- ⚙️ React, Svelte, Vue
+- 👁️ CSS
+- 💽 MySQL, SQL
++ beaucoup plus!
+
+## Contact
+- SiteWeb portfolio
+- [Marc-Olivier Bergeron](www.linkedin.com/in/marc-olivier-bergeron-6a08a725b) Linkedin
+- [mo_b@icloud.com](mailto:mo_b@icloud.com)
