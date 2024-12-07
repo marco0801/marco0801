@@ -17,6 +17,6 @@ Québec, Canada
 + beaucoup plus!
 
 ## Contact
-- SiteWeb portfolio
+- Website portfolio
 - [Marc-Olivier Bergeron](https://www.linkedin.com/in/marc-olivier-bergeron-6a08a725b) Linkedin
 - [mo_b@icloud.com](mailto:mo_b@icloud.com)
