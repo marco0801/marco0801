@@ -1,6 +1,7 @@
 ## Hey! 👋
 Mon nom est Marc-Olivier Bergeron, j'ai 23 ans et je suis un développer logiciel
-Québec, Canada 🇨🇦
+
+Québec, Canada
 
 - Diplomé en technique de l'informatique au Cégép de Sainte-Foy
 
